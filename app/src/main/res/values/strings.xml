@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TheGuide</string>
+    <string name="category_event">Events</string>
+    <string name="category_history">History</string>
+    <string name="category_party_food">Food and Party</string>
+    <string name="category_places">Places to go</string>
+
+    <string name="party_food_location_name1">Places to go</string>
+    <string name="party_food_location_description1">Places to go</string>
+    <string name="party_food_location_address1">Places to go</string>
+    <string name="party_food_basic_information1">Places to go</string>
+    <string name="party_food_location_additional_information1">Places to go</string>
+
+
+</resources>
