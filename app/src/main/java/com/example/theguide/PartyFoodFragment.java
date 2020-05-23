@@ -1,7 +1,6 @@
 package com.example.theguide;
 
 
-import android.location.Location;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -32,14 +31,14 @@ public class PartyFoodFragment extends Fragment {
         // Create a list of locations
         final ArrayList<Location> locations = new ArrayList<Location>();
         locations.add(new Location(R.string.party_food_location_name1, R.string.party_food_location_description1,
-                R.string.party_food_location_address1, R.string.party_food_basic_information1,
+                R.string.party_food_location_address1, R.string.party_food_location_basic_information1,
                 R.string.party_food_location_additional_information1, R.drawable.image_placeholder));
-/*        locations.add(new Location(R.string.party_food_location_name2, R.string.party_food_location_description2,
-                R.string.party_food_location_address2, R.string.party_food_basic_information2,
+        locations.add(new Location(R.string.party_food_location_name2, R.string.party_food_location_description2,
+                R.string.party_food_location_address2, R.string.party_food_location_basic_information2,
                 R.string.party_food_location_additional_information2, R.drawable.image_placeholder));
         locations.add(new Location(R.string.party_food_location_name3, R.string.party_food_location_description3,
-                R.string.party_food_location_address3, R.string.party_food_basic_information3,
-                R.string.party_food_location_additional_information3, R.drawable.image_placeholder));*/
+                R.string.party_food_location_address3, R.string.party_food_location_basic_information3,
+                R.string.party_food_location_additional_information3, R.drawable.image_placeholder));
 
         // Create an LocationAdapter, whose data source is a list of Locations. The
         // adapter knows how to create list items for each item in the list.

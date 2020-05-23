@@ -54,6 +54,27 @@ public class LocationAdapter extends ArrayAdapter<Location>  {
         // the description TextView.
         descriptionTextView.setText(currentLocation.getLocationDescriptionId());
 
+        // Find the TextView in the list_item.xml layout with the ID address_text_view.
+        TextView addressTextView = (TextView) listItemView.findViewById(R.id.address_text_view);
+
+        // Get the address from the currentLocation object and set this text on
+        // the address TextView.
+        addressTextView.setText(currentLocation.getLocationAddressId());
+
+        // Find the TextView in the list_item.xml layout with the ID basic_information_text_view.
+        TextView basicInformationTextView = (TextView) listItemView.findViewById(R.id.basic_information_text_view);
+
+        // Get the basic information from the currentLocation object and set this text on
+        // the basic information TextView.
+        basicInformationTextView.setText(currentLocation.getLocationBasicInformationId());
+
+        // Find the TextView in the list_item.xml layout with the ID additional_information_text_view.
+        TextView additionalInformationTextView = (TextView) listItemView.findViewById(R.id.additional_information_text_view);
+
+        // Get the additional information from the currentLocation object and set this text on
+        // the additional information TextView.
+        additionalInformationTextView.setText(currentLocation.getLocationAdditionalInformationId());
+
         // Find the ImageView in the list_item.xml layout with the ID image.
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
 
