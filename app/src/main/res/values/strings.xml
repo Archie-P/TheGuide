@@ -1,95 +1,105 @@
 <resources>
 
 <!--    Category and app headlines-->
-    <string name="app_name">TheGuide</string>
+    <string name="app_name">The Guide to Munich and Bavaria</string>
     <string name="category_event">Events</string>
-    <string name="category_history">History</string>
+    <string name="category_history">Castles</string>
     <string name="category_party_food">Food and Party</string>
     <string name="category_places">Places to go</string>
 
 
 <!--    Strings for Party/Food location item 1-->
-    <string name="party_food_location_name1">Places to go1</string>
-    <string name="party_food_location_description1">Places to go2</string>
-    <string name="party_food_location_address1">Places to go3</string>
-    <string name="party_food_location_basic_information1">Places to go4</string>
-    <string name="party_food_location_additional_information1">Places to go5</string>
+    <string name="party_food_location_name1">Chinese Tower Beer Garden</string>
+    <string name="party_food_location_description1">The best known beer garden in Bavaria</string>
+    <string name="party_food_location_address1">Englischer Garten 3, 80538 München, Germany</string>
+    <string name="party_food_location_basic_information1">A place to have a beer and pretzels in the wonderful English garden.</string>
+    <string name="party_food_location_additional_information1">Open all year round, if weather permits.</string>
 
     <!--    Strings for Party/Food location item 2-->
-    <string name="party_food_location_name2">Places to go1</string>
-    <string name="party_food_location_description2">Places to go2</string>
-    <string name="party_food_location_address2">Places to go3</string>
-    <string name="party_food_location_basic_information2">Places to go4</string>
-    <string name="party_food_location_additional_information2">Places to go5</string>
+    <string name="party_food_location_name2">Hofbräuhaus</string>
+    <string name="party_food_location_description2">There\'s no more Bavarian place for food and drink</string>
+    <string name="party_food_location_address2">Platzl 9, 80331 München, Germany</string>
+    <string name="party_food_location_basic_information2">A place for tourists, for sure, but also for the locals</string>
+    <string name="party_food_location_additional_information2">Open every day from 9:30 AM to 11:30 PM</string>
 
     <!--    Strings for Party/Food location item 3-->
-    <string name="party_food_location_name3">Places to go1</string>
-    <string name="party_food_location_description3">Places to go2</string>
-    <string name="party_food_location_address3">Places to go3</string>
-    <string name="party_food_location_basic_information3">Places to go4</string>
-    <string name="party_food_location_additional_information3">Places to go5</string>
+    <string name="party_food_location_name3">Christmas Markets</string>
+    <string name="party_food_location_description3">Traditional food and sweets, mulled wine, and lots of ambiente</string>
+    <string name="party_food_location_address3">Marienplatz 26, 80331 München, Germany</string>
+    <string name="party_food_location_basic_information3">Munich has a rich tradition of Christkindlmarkets.</string>
+    <string name="party_food_location_additional_information3">To recommend one, the Christkindlmarket at the Marienplatz is easy to reach
+        and provides anything a visitor could want - November 23 to December 24</string>
 
     <!--    Strings for Events location item 1-->
-    <string name="events_location_name1">eventsPlaces to go1</string>
-    <string name="events_location_description1">eventsPlaces to go2</string>
-    <string name="events_location_address1">eventsPlaces to go3</string>
-    <string name="events_location_basic_information1">eventsPlaces to go4</string>
-    <string name="events_additional_information1">eventsPlaces to go5</string>
+    <string name="events_location_name1">Oktoberfest</string>
+    <string name="events_location_description1">The world famous festival</string>
+    <string name="events_location_address1">Theresienwiese</string>
+    <string name="events_location_basic_information1">Canceled for 2020, but the tradition will be back.</string>
+    <string name="events_additional_information1">Maybe the most famous element is the beer, but there is so much more to it</string>
 
     <!--    Strings for Events location item 2-->
-    <string name="events_location_name2">eventsPlaces to go1</string>
-    <string name="events_location_description2">eventsPlaces to go2</string>
-    <string name="events_location_address2">eventsPlaces to go3</string>
-    <string name="events_location_basic_information2">eventsPlaces to go4</string>
-    <string name="events_location_additional_information2">eventsPlaces to go5</string>
+    <string name="events_location_name2">Summer Tollwood</string>
+    <string name="events_location_description2">Music, market, food, drinks, party</string>
+    <string name="events_location_address2">Olympiapark</string>
+    <string name="events_location_basic_information2">The summer event with music, markets etc.
+        Ecological gastronomy, art and fantastic bands. An event for everyone.</string>
+    <string name="events_location_additional_information2">The Winter Tollwood takes place on the Theresienwiese,
+         where the Oktoberfest takes place in fall.</string>
 
     <!--    Strings for Events location item 3-->
-    <string name="events_location_name3">eventsPlaces to go1</string>
-    <string name="events_location_description3">eventsPlaces to go2</string>
-    <string name="events_location_address3">eventsPlaces to go3</string>
-    <string name="events_location_basic_information3">eventsPlaces to go4</string>
-    <string name="events_location_additional_information3">eventsPlaces to go5</string>
+    <string name="events_location_name3">Free and Easy Festival</string>
+    <string name="events_location_description3">A festival full of free events</string>
+    <string name="events_location_address3">Reitknechtstr. 6, 80639 Munich</string>
+    <string name="events_location_basic_information3">Lots of musical acts at the Backstage, from mid July to early August</string>
+    <string name="events_location_additional_information3">Known for cheap beer and good atmosphere, it\'s a good opportunity to check out new bands.</string>
 
     <!--    Strings for History location item 1-->
-    <string name="history_location_name1">historyPlaces to go1</string>
-    <string name="history_location_description1">historyPlaces to go2</string>
-    <string name="history_location_address1">historyPlaces to go3</string>
-    <string name="history_location_basic_information1">historyPlaces to go4</string>
-    <string name="history_additional_information1">historyPlaces to go5</string>
+    <string name="history_location_name1">Neuschwanstein</string>
+    <string name="history_location_description1">Fairy tale castle built by a crazy king? We got you covered</string>
+    <string name="history_location_address1">Neuschwansteinstraße 20, 87645 Schwangau, Germany</string>
+    <string name="history_location_basic_information1">Probably the best known German castle and definitely worth a visit.</string>
+    <string name="history_additional_information1">Once considered an economic blunder,
+        this castle ist now considered one of Bavaria\'s greatest treasures.</string>
 
     <!--    Strings for History location item 2-->
-    <string name="history_location_name2">historyPlaces to go1</string>
-    <string name="history_location_description2">historyPlaces to go2</string>
-    <string name="history_location_address2">historyPlaces to go3</string>
-    <string name="history_location_basic_information2">historyPlaces to go4</string>
-    <string name="history_location_additional_information2">historyPlaces to go5</string>
+    <string name="history_location_name2">Linderhof Palace</string>
+    <string name="history_location_description2">Another castle of the crazy king. This one comes with an artificial grotto</string>
+    <string name="history_location_address2">Linderhof 12, 82488 Ettal, Germany</string>
+    <string name="history_location_basic_information2">A bit more than an hour ride from Munich. Beautiful landscaping.</string>
+    <string name="history_location_additional_information2">The smallest of the three palaces built by Ludwig II of Bavaria.</string>
 
     <!--    Strings for History location item 3-->
-    <string name="history_location_name3">historyPlaces to go1</string>
-    <string name="history_location_description3">historyPlaces to go2</string>
-    <string name="history_location_address3">historyPlaces to go3</string>
-    <string name="history_location_basic_information3">historyPlaces to go4</string>
-    <string name="history_location_additional_information3">historyPlaces to go5</string>
+    <string name="history_location_name3">Royal Palace of Herrenchiemsee</string>
+    <string name="history_location_description3">This one is a copy of the palace in Versailles</string>
+    <string name="history_location_address3">83209 Herrenchiemsee, Germany</string>
+    <string name="history_location_basic_information3">About 40 miles from Munich, this palace of Ludwig II is
+        located on an island in lake Chiemsee.</string>
+    <string name="history_location_additional_information3">Only the central building and the garden were ever finished,
+        the copy of Versailles was supposed to pay hoomage to Louis XIV of France.</string>
 
     <!--    Strings for Nature location item 1-->
-    <string name="nature_location_name1">naturePlaces to go1</string>
-    <string name="nature_location_description1">naturePlaces to go2</string>
-    <string name="nature_location_address1">naturePlaces to go3</string>
-    <string name="nature_location_basic_information1">naturePlaces to go4</string>
-    <string name="nature_location_additional_information1">naturePlaces to go5</string>
+    <string name="nature_location_name1">Englischer Garten</string>
+    <string name="nature_location_description1">A beautiful, enormous park in the middle of the city</string>
+    <string name="nature_location_address1">Train station Giselastraße</string>
+    <string name="nature_location_basic_information1">This enormous park is always an inviting place for a stroll, all year round.</string>
+    <string name="nature_location_additional_information1">Due to its size there are many ways to get there,
+        but the train station Giselastraße is a good start. Else ask anybody, they will know how to get there.</string>
 
     <!--    Strings for Nature location item 2-->
-    <string name="nature_location_name2">naturePlaces to go1</string>
-    <string name="nature_location_description2">naturePlaces to go2</string>
-    <string name="nature_location_address2">naturePlaces to go3</string>
-    <string name="nature_location_basic_information2">naturePlaces to go4</string>
-    <string name="nature_location_additional_information2">naturePlaces to go5</string>
+    <string name="nature_location_name2">Olympiapark</string>
+    <string name="nature_location_description2">Location of the 1972 Olympic Summer Games</string>
+    <string name="nature_location_address2">Spiridon-Louis-Ring 21, 80809 München, Germany</string>
+    <string name="nature_location_basic_information2">The architecture of the main stadium is just stunning.</string>
+    <string name="nature_location_additional_information2">In addition to sport events, this area is used
+        for cultural events and of course for nice walks in the park.</string>
 
     <!--    Strings for Nature location item 3-->
-    <string name="nature_location_name3">naturePlaces to go1</string>
-    <string name="nature_location_description3">naturePlaces to go2</string>
-    <string name="nature_location_address3">naturePlaces to go3</string>
-    <string name="nature_location_basic_information3">naturePlaces to go4</string>
-    <string name="nature_location_additional_information3">naturePlaces to go5</string>
+    <string name="nature_location_name3">Watzmann</string>
+    <string name="nature_location_description3">The third highest mountain in Germany</string>
+    <string name="nature_location_address3">83471 Schönau am Königssee</string>
+    <string name="nature_location_basic_information3">2 hours South-East of Munich, one of the
+        most impressive mountain vistas in Bavaria</string>
+    <string name="nature_location_additional_information3">For hikers, climbers and all kinds of visitors
+        a location that will leave a lasting impression.</string>
 
 </resources>

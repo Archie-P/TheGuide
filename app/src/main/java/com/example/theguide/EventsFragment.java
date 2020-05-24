@@ -32,13 +32,13 @@ public class EventsFragment extends Fragment {
         final ArrayList<Location> locations = new ArrayList<Location>();
         locations.add(new Location(R.string.events_location_name1, R.string.events_location_description1,
                 R.string.events_location_address1, R.string.events_location_basic_information1,
-                R.string.events_additional_information1, R.drawable.image_placeholder));
+                R.string.events_additional_information1, R.drawable.oktoberfest));
         locations.add(new Location(R.string.events_location_name2, R.string.events_location_description2,
                 R.string.events_location_address2, R.string.events_location_basic_information2,
-                R.string.events_location_additional_information2, R.drawable.image_placeholder));
+                R.string.events_location_additional_information2, R.drawable.tollwood));
         locations.add(new Location(R.string.events_location_name3, R.string.events_location_description3,
                 R.string.events_location_address3, R.string.events_location_basic_information3,
-                R.string.events_location_additional_information3, R.drawable.image_placeholder));
+                R.string.events_location_additional_information3, R.drawable.freeeasy));
 
         // Create an LocationAdapter, whose data source is a list of Locations. The
         // adapter knows how to create list items for each item in the list.
